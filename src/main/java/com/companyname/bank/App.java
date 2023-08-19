@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "npoll scm test");
+        System.out.println( "poll scm test");
     }
 }
